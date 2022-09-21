@@ -1,7 +1,11 @@
 
 
-idade = 20
+idade = 'True'
 
-resultado = ('Menor de Idade', 'Maior de Idade')[idade >= 18]
+lista_compras = ['banana', 'laranja', 'maçã']
 
-print(resultado)
+# resultado = ('Menor de Idade', 'Maior de Idade')[idade >= 18]
+
+# print(resultado)
+
+print(type(lista_compras))
